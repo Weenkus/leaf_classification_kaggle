@@ -1,4 +1,4 @@
-# Kaggle competition: leaf_classification_kaggle
+# Kaggle competition: Leaf Classification
 Kaggle competition: https://www.kaggle.com/c/leaf-classification
 
 Kaggle instructions - Can you see the random forest for the leaves?
